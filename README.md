@@ -17,8 +17,8 @@ A Next.js application for managing products and admin users, using PostgreSQL fo
 
 ### 1. **Clone the Repository**
 ```sh
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/stephen18961/ANG.git
+cd ANG
 ```
 
 ### 2. **Install Dependencies**
